@@ -16,6 +16,8 @@ class music_system
     void volumeOneDown(void);
     void setVolume(int);
     void setVolumeMute(void);
+    void volumePlusFive();
+    void volumeMinusFive();
 
   // library-accessible "private" interface
   private:
